@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="M_f22"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/test/model/texture.texture"'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=87992C27445578D56A53A08A7D6F2D2F
+      Material=Material'"M_f22"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=054FC5B24AB84B4424DCBCB0CE2F230D
+   ReferencedTextureGuids(0)=04FF1C8B49AC5A7901ABB99D1D5D57A2
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=DDA99E9F4588B24D97F619BD71AF19FD
+End Object
